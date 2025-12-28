@@ -2220,7 +2220,7 @@ textarea:focus::placeholder {
 }
 
 .page-wrapper.home-1 {
-  padding-top: 50px;
+  padding-top: 0px;
   padding-bottom: 60px;
 }
 
